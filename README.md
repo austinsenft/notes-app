@@ -8,4 +8,4 @@
 
 ### :movie_camera: Short video of me walking through the a demo [here](https://www.loom.com/share/dd8c748610984619a97fe8ceba64dca5)
 
-### :vampire_man: Beatiful framework from [Dracula UI](https://ui.draculatheme.com/)
+### :vampire_man: Beatiful ui framework from [Dracula UI](https://ui.draculatheme.com/)
